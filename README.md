@@ -1,5 +1,3 @@
-[Ninguém Te Conta Miniatura Do Youtube Azul e Amarelo.md](https://github.com/saviorosynni/saviorosynni/files/14413102/Ninguem.Te.Conta.Miniatura.Do.Youtube.Azul.e.Amarelo.md)
-
 
 # 💫 About Me:
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.<br>👨‍🎓 Graduação : Engenharia de Software na PUC Minas (cursando)<br>🌱 Atividades Atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.<br>

@@ -1,7 +1,5 @@
-
 # 💫 About Me:
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.<br>👨‍🎓 Graduação : Engenharia de Software na PUC Minas (cursando)<br>🌱 Atividades Atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.<br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saviorosynni) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/savio_rosynni) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Savio_rosynni) 

@@ -20,4 +20,8 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 ---
 [![](https://visitcount.itsvg.in/api?id=saviorosynni&icon=1&color=1)](https://visitcount.itsvg.in)
 
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

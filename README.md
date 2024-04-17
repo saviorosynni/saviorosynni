@@ -1,3 +1,8 @@
+![Artificial intelligence to Enhance Language Skills Presentation in Blue and Purple 3D Modern Style](https://github.com/saviorosynni/saviorosynni/assets/161331798/cd327ba8-0283-4748-88fc-85d5c4148833)
+
+
+
+
 # 💫 Seja bem vindo:
 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.<br>👨‍🎓 Graduação : Engenharia de Software na PUC Minas (cursando)<br>🌱 Atividades Atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.<br>
 

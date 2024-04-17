@@ -26,5 +26,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
 
+# Spotify Playlist: Recommendation Playlist
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Recommendation Playlist](https://img.shields.io/badge/Spotify-Playlist-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/696JxPsVoY96yiVmCewz02)
+

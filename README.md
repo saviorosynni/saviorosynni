@@ -29,7 +29,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# Spotify Playlist: Recommendation Playlist
-
-[![Recommendation Playlist](https://img.shields.io/badge/Spotify-Playlist-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/696JxPsVoY96yiVmCewz02)
+![Artificial intelligence to Enhance Language Skills Presentation in Blue and Purple 3D Modern Style (1)](https://github.com/saviorosynni/saviorosynni/assets/161331798/2994eb38-0217-46a9-9efa-474aa2c716c9)
 

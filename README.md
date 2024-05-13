@@ -18,7 +18,8 @@
 </td>
 <td><a href="https://www.linkedin.com/in/saviorosynni/" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
- 
+ <td><a href="https://www.instagram.com/in/saviorosynni/" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/instagram.png?raw=true" width="50px" height="50px"/></a>
+</td>
 </table>
 
 </div>

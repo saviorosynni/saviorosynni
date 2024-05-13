@@ -20,6 +20,8 @@
 </td>
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
+ <td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/joaopauloaramuni/saviorosynni/blob/main/img/instagram.png?raw=true" width="50px" height="50px"/></a>
+</td>
 </table>
 
 </div>

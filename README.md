@@ -1,5 +1,4 @@
-![Artificial intelligence to Enhance Language Skills Presentation in Blue and Purple 3D Modern Style (1)](https://github.com/saviorosynni/saviorosynni/assets/161331798/53dd1f2e-ad41-4c3a-95ce-e4045e3cf5c0)
-
+![Dev Front-End](https://github.com/saviorosynni/saviorosynni/assets/161331798/2510e4ca-d483-4684-8a95-be400be1db57)
 
 
 

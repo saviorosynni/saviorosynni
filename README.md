@@ -24,10 +24,7 @@
 </td>
 <td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
+
 </table>
 
 </div>

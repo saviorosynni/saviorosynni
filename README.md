@@ -2,13 +2,18 @@
 
 
 
+# 🌀 Seja bem-vindo:
+👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.<br>
+👨‍🎓 Graduação: Engenharia de Software na PUC Minas (cursando)<br>
+🌱 Atividades Atuais: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.<br>
 
-# 💫 Seja bem vindo:
-👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.<br>👨‍🎓 Graduação : Engenharia de Software na PUC Minas (cursando)<br>🌱 Atividades Atuais : Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.<br>
-
-# 💫 About Me:
-🎓 Estudando Engenharia de Software na PUC Minas<br>🕹️ Apaixonado por jogos e futebol. <br>🦊 Sou um grande torcedor do Cruzeiro! <br>🌐 Atualmente, estou aprendendo C e cursando um bootcamp de Java Full Stack na OneBitCode<br>📚 Focado em JavaScript, minha grande paixão, e explorando o backend com C<br>🚀 Estou em busca de oportunidades de estágio ou como desenvolvedor júnior, disposto a contribuir em projetos e crescer na área de tecnologi
-
+# 🌀 About Me:
+🎓 Estudando Engenharia de Software na PUC Minas<br>
+🕹️ Apaixonado por jogos e futebol. <br>
+🦊 Sou um grande torcedor do Cruzeiro! <br>
+🌐 Atualmente, estou aprendendo C e cursando um bootcamp de Java Full Stack na OneBitCode<br>
+📚 Focado em JavaScript, minha grande paixão, e explorando o backend com C<br>
+🚀 Estou em busca de oportunidades de estágio ou como desenvolvedor júnior, disposto a contribuir em projetos e crescer na área de tecnologia
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/savio_rosynni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]

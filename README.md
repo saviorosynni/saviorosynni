@@ -3,7 +3,7 @@
 
 
 # 🌀 Seja bem-vindo:
-👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.<br>
+🌐 Apaixonado pelo mundo da Engenharia de Software, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso como desenvolvedor.<br>
 👨‍🎓 Graduação: Engenharia de Software na PUC Minas (cursando)<br>
 🌱 Atividades Atuais: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.<br>
 

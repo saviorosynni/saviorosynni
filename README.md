@@ -16,7 +16,7 @@
 </td>
 <td><a href="https://wa.me/5531996567060" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/whatsapp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="[https://www.linkedin.com/in/saviorosynni/](https://www.linkedin.com/in/s%C3%A1vio-rosynni-5b1b75186/)" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/joaopauloaramuni](https://www.linkedin.com/in/s%C3%A1vio-rosynni-5b1b75186/)/)" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
  <td><a href="https://www.instagram.com/in/saviorosynni/" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/instagram.png?raw=true" width="50px" height="50px"/></a>
 </td>

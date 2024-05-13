@@ -30,7 +30,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saviorosynni&icon=0&color=0)](https://visitcount.itsvg.in)
-
+| `blueviolet` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet) |
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ```text

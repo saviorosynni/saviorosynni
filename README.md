@@ -1,8 +1,6 @@
 ![Dev Front-End](https://github.com/saviorosynni/saviorosynni/assets/161331798/2510e4ca-d483-4684-8a95-be400be1db57)
 
-<div>
-<img align="center" alt="Header" src="https://github.com/saviorosynni/saviorosynni/blob/main/img/header2.png?raw=true"/>
-</div>
+
 
 -----
 
@@ -12,7 +10,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/saviorosynni" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/saviorosynni" target="_blank"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://replit.com/@aramuni"><img src="https://github.com/saviorosynni/saviorosynni/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
